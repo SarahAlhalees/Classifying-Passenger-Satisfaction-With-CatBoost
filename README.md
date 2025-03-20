@@ -42,4 +42,5 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/airline-passenger-satisfaction.git
+   git clone https://github.com/your-username/Classifying-Passenger-Satisfaction-With-CatBoost
+.git
