@@ -35,7 +35,6 @@ The dataset is provided in a CSV file (`train(2).csv`).
 - **Key Insights**: Features like In-flight Wi-Fi Service and Type of Travel were identified as the most influential predictors of passenger satisfaction.
 - **Comparison**: CatBoost outperformed Random Forest and Decision Trees in terms of cross-validation accuracy.
 
-For detailed results, refer to the project report or the Jupyter notebook provided in the repository.
 
 ## Installation
 To run this project locally, follow these steps:
