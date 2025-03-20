@@ -16,12 +16,15 @@ This project focuses on predicting airline passenger satisfaction using the CatB
 In the highly competitive airline industry, understanding and improving passenger satisfaction is crucial for maintaining a competitive edge. This project uses the CatBoost algorithm to classify passenger satisfaction levels and provides insights into the key factors influencing satisfaction. The project also compares CatBoost's performance with other popular algorithms like Random Forest and Decision Trees.
 
 ## Dataset
-The dataset contains 19 features, including both numerical and categorical variables, such as:
+Source: #!/bin/bash
+curl -L -o ~/Downloads/airline-passenger-satisfaction-dataset.zip\
+  https://www.kaggle.com/api/v1/datasets/download/bismasajjad/airline-passenger-satisfaction-dataset
+The dataset  contains 19 features, including both numerical and categorical variables, such as:
 - **Numerical Features**: Age, Flight Distance, Departure/Arrival Delay, Service Ratings (e.g., In-flight Wi-Fi, Seat Comfort).
 - **Categorical Features**: Gender, Customer Type, Type of Travel, Class.
 - **Target Variable**: Passenger Satisfaction (Satisfied or Neutral/Dissatisfied).
 
-The dataset is provided in a CSV file (`airline_passenger_satisfaction.csv`).
+The dataset is provided in a CSV file (`train(2).csv`).
 
 ## Methodology
 1. **Data Preprocessing**: Handling missing values, encoding categorical features, and feature engineering.
