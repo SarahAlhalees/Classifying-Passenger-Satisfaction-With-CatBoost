@@ -8,9 +8,7 @@ This project focuses on predicting airline passenger satisfaction using the CatB
 3. [Methodology](#methodology)
 4. [Results](#results)
 5. [Installation](#installation)
-6. [Usage](#usage)
-7. [Contributing](#contributing)
-8. [License](#license)
+
 
 ## Introduction
 In the highly competitive airline industry, understanding and improving passenger satisfaction is crucial for maintaining a competitive edge. This project uses the CatBoost algorithm to classify passenger satisfaction levels and provides insights into the key factors influencing satisfaction. The project also compares CatBoost's performance with other popular algorithms like Random Forest and Decision Trees.
